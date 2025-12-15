@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Thank you for considering contributing to this project! Contributions are welcome and appreciated.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
 ## How to Contribute
 You can contribute in many ways including reporting bugs, fixing bugs, improving documentation, suggesting enhancements, or sharing new ideas.
